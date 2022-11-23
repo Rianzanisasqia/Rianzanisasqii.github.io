@@ -1,0 +1,41 @@
+img{
+    align: center
+    margin: 15px;
+    border-radius: 10px;
+}
+h1{
+    font-size:25px;
+}
+.liaa{
+    color:gray;
+}
+a{
+    color:gray;
+    text-decoration: none;
+    font-size: 10px;
+}
+.donat{
+    color:28104E;
+}
+.ily{
+    color:28104E;
+}
+.pizza{
+    color:28104E;
+}
+.seblak{
+    font-style: arial;
+}
+.ooo{
+    font-size:10px;
+}
+p{
+    font-size: 15px;
+}
+td{
+    font-size: 15px;
+}
+.uuu {
+    text-decoration: underline;
+    color : purple;
+}
